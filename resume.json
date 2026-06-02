@@ -1,0 +1,105 @@
+{
+  "personal_info": {
+    "name": "Mohd Shahid Sharif Sayyed",
+    "title": "Aspiring software developer",
+    "email": "shahidsayyed861@gmail.com",
+    "phone": "+91 9834168160"
+  },
+  "objective": "Aspiring software developer with a strong focus on backend development, Android and Ai applications. Skilled in Python and Java with hands-on experience in creating applications using FastAPI for AI MCP.",
+  "education": [
+    {
+      "institution": "IMED-Bharati Vidyapeeth",
+      "degree": "Master of Computer Application",
+      "cgpa": 9.27,
+      "dates": "07/2024 - Present"
+    },
+    {
+      "institution": "Ness Wadias College of Commerce",
+      "degree": "Bachelor of Business Administration (Computer Applications)",
+      "cgpa": 7.1,
+      "dates": "06/2021 - 05/2024"
+    },
+    {
+      "institution": "M.C.E Society, Azam Campus, Maharashtra State Board of Secondary & Higher Secondary Education",
+      "percentage": 85.34,
+      "dates": "07/2019 - 05/2021"
+    },
+    {
+      "institution": "Arhana's Rosary High School, Maharashtra State Board of Secondary & Higher Secondary Education",
+      "percentage": 59.4,
+      "dates": "06/2013 - 05/2019"
+    }
+  ],
+  "skills": {
+    "soft_skills": [
+      "Problem-Solving",
+      "Teamwork",
+      "Communication",
+      "Project Management",
+      "Time Management",
+      "Leadership"
+    ],
+    "technical_skills": [
+      "Python",
+      "Java",
+      "Javascript",
+      "MySql",
+      "C/C++",
+      "API testing using Postman",
+      "Prompt Engineering",
+      "N8N Automation"
+    ]
+  },
+  "professional_experience": [
+    {
+      "company": "Actly",
+      "title": "Full Stack Developer Intern",
+      "dates": "10/2025 - 01/2026",
+      "location": "Kuwait",
+      "description": "Built Backend services using FastAPI in Python for AI based applications and developed custom tools supporting AI model interaction using MCP, Created Rest APIs and handled request/response workflows"
+    },
+    {
+      "company": "Actly",
+      "title": "Full Stack Developer",
+      "dates": "01/2026 - 03/2026",
+      "location": "Kuwait",
+      "description": "Worked on meta developer tools using Instagram by integration Meta APIs into the code and created an instagram chatbot, Created automation using FastAPI for updation of the endpoints in the database."
+    }
+  ],
+  "projects": [
+    {
+      "title": "2D Game in Python - Pixel Fire",
+      "description": "A 2D Indie Platformer built in Python using the PyGame library. It includes multiple levels and stages with unique Boss Fights and their respective stages. The game world was constructed using Sprites and a Level Builder, creating a rich and immersive environment for players. The project showcases skills in game loop management, collision detection, and sprite animation, offering a comprehensive example of game development from concept to a playable state.",
+      "technologies_used": [
+        "Python",
+        "PyGame"
+      ]
+    },
+    {
+      "title": "2D Game in Python - Space Defenders",
+      "description": "I made a project called Space Shooters in Python using the Pygame library. It's a 2D arcade-style game where two players can play together on the same keyboard. Each player controls a spaceship and tries to shoot the other while avoiding being hit. The design was inspired by classic retro arcade games.",
+      "technologies_used": [
+        "Python",
+        "PyGame"
+      ]
+    },
+    {
+      "title": "Android Application - Blood Community",
+      "description": "My project is called Blood Community. It's an Android app that I created using Android Studio with Java for the front-end, and PHP with MySQL for the backend. The purpose of the app is to make blood donation easier. Normally, people have to go through a blood bank, which can be slow. With this app, a requester can directly connect with a donor without needing a middle entity.",
+      "technologies_used": [
+        "Java",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "title": "Fans Selling Website",
+      "description": "My first project was a simple Fans Selling Website. It was created using HTML, CSS, and a little JavaScript. The idea was to create a platform where customers could browse different types of fans, view details like price and description, and then go to an order form.",
+      "technologies_used": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Mohd Shahid Sharif Sayyed",
+    "label": "Full Stack Developer",
+    "email": "shahidsayyed861@gmail.com",
+    "phone": "+91 9834168160",
+    "summary": "Aspiring software developer with a strong focus on backend development, Android and AI applications. Skilled in Python and Java with hands-on experience in creating applications using FastAPI for AI MCP.",
+    "location": {
+      "city": "Pune",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "shahidsayyed",
+        "url": "https://github.com/shahidsayyed"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "shahidsayyed",
+        "url": "https://linkedin.com/in/shahidsayyed"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Actly",
+      "position": "Full Stack Developer",
+      "location": "Kuwait (Remote)",
+      "startDate": "2026-01",
+      "endDate": "2026-03",
+      "summary": "Worked on meta developer tools using Instagram by integrating Meta APIs and created an Instagram chatbot. Created automation using FastAPI for updating endpoints in the database.",
+      "highlights": [
+        "Integrated Meta APIs for Instagram chatbot functionality",
+        "Built FastAPI automation for database endpoint updates",
+        "Developed custom tools supporting AI model interaction using MCP"
+      ]
+    },
+    {
+      "company": "Actly",
+      "position": "Full Stack Developer Intern",
+      "location": "Kuwait (Remote)",
+      "startDate": "2025-10",
+      "endDate": "2026-01",
+      "summary": "Built backend services using FastAPI in Python for AI-based applications and developed custom tools supporting AI model interaction using MCP.",
+      "highlights": [
+        "Built backend services using FastAPI in Python",
+        "Developed custom MCP tools for AI model interaction",
+        "Created REST APIs and handled request/response workflows"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IMED - Bharati Vidyapeeth",
+      "area": "Computer Application",
+      "studyType": "Master of Computer Application",
+      "startDate": "2024-07",
+      "endDate": "Present",
+      "score": "9.27 CGPA"
+    },
+    {
+      "institution": "Ness Wadias College of Commerce",
+      "area": "Computer Applications",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "2021-06",
+      "endDate": "2024-05",
+      "score": "7.1 CGPA"
+    },
+    {
+      "institution": "M.C.E Society, Azam Campus",
+      "area": "Higher Secondary Education",
+      "studyType": "HSC",
+      "startDate": "2019-07",
+      "endDate": "2021-05",
+      "score": "85.34%"
+    },
+    {
+      "institution": "Arhana's Rosary High School",
+      "area": "Secondary Education",
+      "studyType": "SSC",
+      "startDate": "2013-06",
+      "endDate": "2019-05",
+      "score": "59.4%"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Python", "Java", "JavaScript", "C/C++"]
+    },
+    {
+      "name": "Backend & APIs",
+      "keywords": ["FastAPI", "REST APIs", "MCP", "Postman", "PHP"]
+    },
+    {
+      "name": "AI & Automation",
+      "keywords": ["Prompt Engineering", "N8N Automation", "AI Applications"]
+    },
+    {
+      "name": "Database",
+      "keywords": ["MySQL", "PostgreSQL"]
+    },
+    {
+      "name": "Mobile & Web",
+      "keywords": ["Android (Java)", "HTML", "CSS", "PyGame"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Problem-Solving", "Teamwork", "Leadership", "Project Management"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pixel Fire — 2D Platformer",
+      "description": "A 2D Indie Platformer built in Python using the PyGame library. Includes multiple levels and stages with unique Boss Fights. The game world was constructed using Sprites and a Level Builder, creating an immersive environment. Showcases game loop management, collision detection, and sprite animation.",
+      "keywords": ["Python", "PyGame"],
+      "url": "https://github.com/shahidsayyed"
+    },
+    {
+      "name": "Space Defenders — 2D Arcade",
+      "description": "A 2D arcade-style game where two players can play together on the same keyboard. Each player controls a spaceship and tries to shoot the other while avoiding being hit. Design inspired by classic retro arcade games.",
+      "keywords": ["Python", "PyGame"],
+      "url": "https://github.com/shahidsayyed"
+    },
+    {
+      "name": "Blood Community — Android App",
+      "description": "An Android app that connects blood donors directly with requesters, bypassing the need for a blood bank intermediary. Built with Android Studio using Java for the front-end, and PHP with MySQL for the backend.",
+      "keywords": ["Java", "PHP", "MySQL", "Android"],
+      "url": "https://github.com/shahidsayyed"
+    },
+    {
+      "name": "Fans Selling Website",
+      "description": "A simple e-commerce style website for browsing fans with details like price and description, and an order form. Built as a first web project exercise.",
+      "keywords": ["HTML", "CSS", "JavaScript"],
+      "url": "https://github.com/shahidsayyed"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+.sectionTitle {
+  font-family: var(--font-display);
+  font-size: 28px;
+  font-weight: 400;
+  color: var(--color-text);
+  margin-bottom: 32px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 18px 20px;
+  background: var(--color-bg-card);
+  border: 0.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: border-color var(--transition-fast);
+}
+
+.item:hover {
+  border-color: var(--color-border-strong);
+}
+
+.left {
+  flex: 1;
+}
+
+.institution {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-text);
+  margin-bottom: 3px;
+}
+
+.degree {
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--color-text-muted);
+  margin-bottom: 5px;
+}
+
+.date {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--color-accent);
+}
+
+.score {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--color-text-muted);
+  background: var(--color-tag-bg);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+  flex-shrink: 0;
+  align-self: flex-start;
+  margin-top: 2px;
+}
+
+@media (max-width: 480px) {
+  .item {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
