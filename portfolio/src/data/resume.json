@@ -12,8 +12,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "shahidsayyed",
-        "url": "https://github.com/shahidsayyed"
+        "username": "ShahidSayyed362",
+        "url": "https://github.com/ShahidSayyed362"
       },
       {
         "network": "LinkedIn",
@@ -56,7 +56,7 @@
       "area": "Computer Application",
       "studyType": "Master of Computer Application",
       "startDate": "2024-07",
-      "endDate": "Present",
+      "endDate": "2026-05",
       "score": "9.27 CGPA"
     },
     {
@@ -115,25 +115,25 @@
       "name": "Pixel Fire — 2D Platformer",
       "description": "A 2D Indie Platformer built in Python using the PyGame library. Includes multiple levels and stages with unique Boss Fights. The game world was constructed using Sprites and a Level Builder, creating an immersive environment. Showcases game loop management, collision detection, and sprite animation.",
       "keywords": ["Python", "PyGame"],
-      "url": "https://github.com/shahidsayyed"
+      "url": "https://github.com/ShahidSayyed362"
     },
     {
       "name": "Space Defenders — 2D Arcade",
       "description": "A 2D arcade-style game where two players can play together on the same keyboard. Each player controls a spaceship and tries to shoot the other while avoiding being hit. Design inspired by classic retro arcade games.",
       "keywords": ["Python", "PyGame"],
-      "url": "https://github.com/shahidsayyed"
+      "url": "https://github.com/ShahidSayyed362"
     },
     {
       "name": "Blood Community — Android App",
       "description": "An Android app that connects blood donors directly with requesters, bypassing the need for a blood bank intermediary. Built with Android Studio using Java for the front-end, and PHP with MySQL for the backend.",
       "keywords": ["Java", "PHP", "MySQL", "Android"],
-      "url": "https://github.com/shahidsayyed"
+      "url": "https://github.com/ShahidSayyed362"
     },
     {
       "name": "Fans Selling Website",
       "description": "A simple e-commerce style website for browsing fans with details like price and description, and an order form. Built as a first web project exercise.",
       "keywords": ["HTML", "CSS", "JavaScript"],
-      "url": "https://github.com/shahidsayyed"
+      "url": "https://github.com/ShahidSayyed362"
     }
   ]
 }
