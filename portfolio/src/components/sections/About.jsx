@@ -5,7 +5,7 @@ import resume from '../../data/resume.json';
 import styles from './About.module.css';
 
 export function About() {
-  const { name, summary } = resume.basics;
+  const { summary } = resume.basics;
 
   return (
     <SectionWrapper id="about">
