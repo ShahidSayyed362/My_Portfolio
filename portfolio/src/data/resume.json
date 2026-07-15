@@ -87,11 +87,11 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "Java", "JavaScript", "C/C++"]
+      "keywords": ["Python", "Java", "JavaScript", "TypeScript", "C/C++"]
     },
     {
       "name": "Backend & APIs",
-      "keywords": ["FastAPI", "REST APIs", "MCP", "Postman", "PHP"]
+      "keywords": ["Node.js", "Express.js", "FastAPI", "REST APIs", "MCP", "PHP", "Postman"]
     },
     {
       "name": "AI & Automation",
@@ -99,11 +99,15 @@
     },
     {
       "name": "Database",
-      "keywords": ["MySQL", "PostgreSQL"]
+      "keywords": ["MongoDB", "MySQL", "PostgreSQL"]
     },
     {
       "name": "Mobile & Web",
-      "keywords": ["Android (Java)", "HTML", "CSS", "PyGame"]
+      "keywords": ["React", "Android (Java)", "Tailwind CSS", "HTML", "CSS"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["PyGame"]
     },
     {
       "name": "Soft Skills",
