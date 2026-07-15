@@ -46,7 +46,12 @@ export function Contact() {
         </p>
 
         <div className={styles.ctas}>
-          <Button variant="primary" href={`mailto:${email}`}>
+          <Button 
+            variant="primary" 
+            href={`https://mail.google.com/mail/?view=cm&fs=1&to=${email}`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Mail size={15} />
             Send a Message
           </Button>
@@ -65,7 +70,12 @@ export function Contact() {
               <span>{network}</span>
             </a>
           ))}
-          <a href={`mailto:${email}`} className={styles.socialLink}>
+          <a 
+            href={`https://mail.google.com/mail/?view=cm&fs=1&to=${email}`} 
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.socialLink}
+          >
             <Mail size={18} />
             <span>{email}</span>
           </a>

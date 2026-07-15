@@ -2,7 +2,7 @@
  * Button — Primary (gold filled) or Ghost (outlined) variant
  * Can render as <button> or <a> depending on whether `href` is provided.
  */
-export function Button({ variant = 'primary', href, onClick, children, className = '' }) {
+export function Button({ variant = 'primary', href, onClick, children, className = '', target, rel }) {
   const base = {
     display: 'inline-flex',
     alignItems: 'center',
@@ -50,6 +50,8 @@ export function Button({ variant = 'primary', href, onClick, children, className
         className={className}
         onMouseEnter={(e) => handleHover(e, true)}
         onMouseLeave={(e) => handleHover(e, false)}
+        target={target}
+        rel={rel}
       >
         {children}
       </a>
