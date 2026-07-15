@@ -24,7 +24,7 @@ export function About() {
           <div className={styles.bio}>
             <p>{summary}</p>
             <p style={{ marginTop: '16px' }}>
-              Currently pursuing my MCA at IMED – Bharati Vidyapeeth with a 9.27 CGPA,
+              Having completed my MCA at IMED – Bharati Vidyapeeth with a 9.27 CGPA,
               I combine strong academic foundations with practical industry experience
               at Actly, where I built AI-powered backend systems and Meta API integrations.
             </p>
@@ -38,7 +38,7 @@ export function About() {
         {/* Decorative panel */}
         <div className={styles.decorPanel}>
           <div className={styles.decorCard}>
-            <p className={styles.decorLabel}>Currently</p>
+            <p className={styles.decorLabel}>Education</p>
             <p className={styles.decorValue}>MCA @ IMED</p>
             <p className={styles.decorSub}>CGPA 9.27 · Pune, IN</p>
           </div>
