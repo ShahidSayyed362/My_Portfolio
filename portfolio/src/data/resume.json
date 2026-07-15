@@ -134,6 +134,12 @@
       "description": "A simple e-commerce style website for browsing fans with details like price and description, and an order form. Built as a first web project exercise.",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "url": "https://github.com/ShahidSayyed362"
+    },
+    {
+      "name": "E-commerce Website (MERN)",
+      "description": "A full-stack e-commerce application with separate backend (Node.js, Express, MongoDB) and frontend (React, TypeScript, Tailwind CSS) components. Features include product & category management, user authentication, profile management, shopping cart, and an admin dashboard.",
+      "keywords": ["Node.js", "Express.js", "MongoDB", "React", "TypeScript", "Tailwind CSS"],
+      "url": "https://github.com/ShahidSayyed362/Ecommerce_website"
     }
   ]
 }
