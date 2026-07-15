@@ -48,7 +48,9 @@ export function Navbar() {
 
         <div className={styles.right}>
           <a
-            href={`mailto:${resume.basics.email}`}
+            href={`https://mail.google.com/mail/?view=cm&fs=1&to=${resume.basics.email}`}
+            target="_blank"
+            rel="noopener noreferrer"
             className={styles.resumeBtn}
           >
             Hire Me
